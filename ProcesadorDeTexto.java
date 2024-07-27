@@ -22,6 +22,7 @@ public class ProcesadorDeTexto {
 
 }
 //dasdasdasdadasd
+//mejor un comentario que se entienda
 class MarcoProcesador extends JFrame{
 	
 	public MarcoProcesador() {
