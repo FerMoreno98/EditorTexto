@@ -16,11 +16,11 @@ public class ProcesadorDeTexto {
 		
 		m.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	
-		System.out.println("hola hola hola");
+
 	}
 
 }
-
+//dasdasdasdadasd
 class MarcoProcesador extends JFrame{
 	
 	public MarcoProcesador() {
