@@ -15,7 +15,8 @@ public class ProcesadorDeTexto {
 		m.setVisible(true);
 		
 		m.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	
+		
+		System.out.println("otor commit");
 
 	}
 
@@ -44,7 +45,7 @@ class MarcoProcesador extends JFrame{
 	
 	
 }
-
+//dasdasdasdasdasdasd
 class LaminaProcesador extends JPanel{
 	
 	private JTextArea area;
@@ -162,7 +163,7 @@ class LaminaProcesador extends JPanel{
 		
 		
 	}
-	
+	//dasdasdasdfdssf
 	public void aniadirOyente(JMenuItem e) {
 		
 		e.addActionListener(new EscogerFuente());
